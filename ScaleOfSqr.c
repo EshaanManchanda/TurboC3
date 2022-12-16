@@ -11,13 +11,13 @@ void main()
 int gd=DETECT,gm;
 int c;
 initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
-printf("Enter the 1st point for the triangle:");
+printf("Enter the 1st point for the Square:");
 scanf("%d%d",&x1,&y1);
-printf("Enter the 2nd point for the triangle:");
+printf("Enter the 2nd point for the Square:");
 scanf("%d%d",&x2,&y2);
-printf("Enter the 3rd point for the triangle:");
+printf("Enter the 3rd point for the Square:");
 scanf("%d%d",&x3,&y3);
-printf("Enter the 3rd point for the triangle:");
+printf("Enter the 4rd point for the Square:");
 scanf("%d%d",&x4,&y4);
 draw();
 scale();

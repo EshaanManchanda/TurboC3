@@ -49,11 +49,11 @@ int sec;
 for(sec=0;sec<1;sec++)
 {
 	entry();
-	//running();
-	//jumping();
-	//transform_stick();
-	//cleardevice();
-	//background2();
+	running();
+	jumping();
+	transform_stick();
+	cleardevice();
+	background2();
 	landing();
 }
 }

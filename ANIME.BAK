@@ -300,7 +300,7 @@ int k=height;
 
 for(x=width;x>=width-200;x--)
 {
-//main 
+//main
 line(230,k-210,225,k-225);
 line(250,k-210,255,k-225);
 
@@ -331,13 +331,13 @@ line(x,k-200,x-20,k-170);
 line(x,k-140,x+10,k-100);
 line(x,k-140,x-10,k-100);
 background2();
-delay(10);
+delay(5);
 cleardevice();
 }
 
 for(a=0;a<=60;a++)
 {
-//main 
+//main
 line(230,k-210,225,k-225);
 line(250,k-210,255,k-225);
 
@@ -378,7 +378,7 @@ background2();
 delay(10);
 cleardevice();
 }
-//main 
+//main
 for(a=0;a<=100;a++)
 {
 
@@ -402,8 +402,10 @@ line(240,k-140,250,k-100);
 line(240,k-140,230,k-100);
 background2();
 outtextxy(200,a-10,"Thank You For watching the project");
-outtextxy(200,a-20,"This is the Project made by Eshaan Manchanda");
+outtextxy(150,a-20,"This is the Project made by Eshaan Manchanda");
+delay(60);
 cleardevice();
+
 
 }
 

@@ -2,6 +2,10 @@
     "files.associations": {
         "TIANGL~1.C": "cpp",
         "LINE.C": "cpp",
-        "ANIME.C": "cpp"
+        "ANIME.C": "cpp",
+        "TRIANGLE.C": "cpp",
+        "ScaleOfTri.C": "cpp",
+        "SMILIN~1.C": "cpp",
+        "reflectionoftri": "c"
     }
 }
