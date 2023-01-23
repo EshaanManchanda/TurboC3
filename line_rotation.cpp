@@ -8,11 +8,11 @@ int main(void)
 
 int gdriver = DETECT, gmode, errorcode;
 int xmax, ymax,x1,y1,x2,y2,z,r,theta;
-initgraph(&gdriver, &gmode, ");
+initgraph(&gdriver, &gmode,"C:\\TURBOC3\\BGI");
 printf("Enter the X1 coordinate:\n");
 scanf("%d",&x1);
 printf("Enter the Y1 coordinate:\n");
-scanf(“%d”,&y1);
+scanf("%d",&y1);
 printf("Enter the X2 coordinate :\n ");
 scanf("%d",&x2);
 printf("Enter the Y2 coordinate:\n");

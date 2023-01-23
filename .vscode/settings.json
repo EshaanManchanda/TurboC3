@@ -6,6 +6,10 @@
         "TRIANGLE.C": "cpp",
         "ScaleOfTri.C": "cpp",
         "SMILIN~1.C": "cpp",
-        "reflectionoftri": "c"
+        "reflectionoftri": "c",
+        "V1.C": "cpp",
+        "BOUNCI~1.C": "cpp",
+        "CHANGI~1.C": "cpp",
+        "FILLST~1.C": "cpp"
     }
 }

@@ -331,7 +331,7 @@ line(x,k-200,x-20,k-170);
 line(x,k-140,x+10,k-100);
 line(x,k-140,x-10,k-100);
 background2();
-delay(5);
+delay(60);
 cleardevice();
 }
 
